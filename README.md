@@ -1,2 +1,2 @@
 # Embera-Puru
-conte franpçais et espagnol
+conte français et espagnol
